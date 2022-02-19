@@ -291,3 +291,4 @@ defaults:
 
 
 remote_theme : mmistakes/minimal-mistakes
+future: true
