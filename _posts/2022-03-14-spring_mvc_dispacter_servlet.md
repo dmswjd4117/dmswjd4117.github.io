@@ -12,7 +12,7 @@ published: true
     - 요청을 특정 컨트롤러에 매핑하기위한 frontController 패턴을 적용한 servlet 이다.
     - 과거에는 서블릿을 컨트롤러 당 하나씩 두고 있었고 컨트롤러 추가할때마다 서블릿을 web.xml에 등록하거나 @WebServlet 을 이용해야했다. 
 
-<br></br>
+ 
 
 2. Dispatcher Servlet 동작 방식
         
@@ -45,8 +45,7 @@ published: true
         5. HandlerAdpater가 반환받은 ResponseEntity를 통해 Response 처리를 진행하고 클라이언트로 반환한다. 
 
 
-<br><br/>
-        
+ 
   
 > 참고
 > 
